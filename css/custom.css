@@ -9,7 +9,8 @@
 
 /* honeypot css */
 form #website {
-	display: none;
+	opacity: 0;
+	height: 0;
 }
 
 /* Background Colours */
